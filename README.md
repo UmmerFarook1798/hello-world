@@ -1,2 +1,3 @@
 # hello-world
 my first repository
+hey im doing this all by seeing tutorials in my next tab...
